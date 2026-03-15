@@ -1,4 +1,4 @@
-# Olá, eu sou a Mari! 
+# Olá, eu sou a Mari
 
 Estudante de Desenvolvimento de Sistemas na ETEC.
 
